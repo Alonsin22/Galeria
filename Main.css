@@ -68,4 +68,7 @@ footer{
     .imagenes{
         height: 100%;
     }
+    .foto{
+        height: 300px;
+    }
 }
