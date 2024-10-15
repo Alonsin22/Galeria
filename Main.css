@@ -1,0 +1,58 @@
+header{
+    background-color:rgba(68, 65, 65, 0.7) ;
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid black;
+    padding: 30px;
+    border-radius: 40px;
+}
+.gallery{
+    height: 100px;
+    width: 100px;
+}
+.logo a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    justify-content: center;
+    padding: 10px;
+    font-size: larger;
+}
+.icon{
+    cursor: pointer;
+    width: 70px;
+    height: 70px;
+    margin: 20px;
+    border-radius:50px ;
+}
+footer{
+    background-color:rgba(68, 65, 65, 0.7) ;
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid black;
+    padding: 30px;
+    border-radius: 40px;
+}
+.imagenes{
+    height: 800px;
+    margin: 30px;
+    background-color:rgba(155, 145, 145, 0.7) ;
+    display: flex;
+    justify-content: space-around;
+    border: 3px solid black;
+    padding: 30px;
+    border-radius: 90px;
+    flex-wrap: wrap;
+}
+.img{
+    height: 250px;
+    width: 250px;
+    border: 1px solid black;
+}
+.foto{
+    border-radius: 20px;
+    background-color: rgb(102, 97, 97);
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid black;
+}
