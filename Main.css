@@ -56,3 +56,16 @@ footer{
     margin: 20px;
     border: 1px solid black;
 }
+
+@media screen and (max-width:550px) {
+    .icons{
+        display: none;
+    }
+    .logo{
+        display: flex;
+        flex-direction: column;   
+    }
+    .imagenes{
+        height: 100%;
+    }
+}
